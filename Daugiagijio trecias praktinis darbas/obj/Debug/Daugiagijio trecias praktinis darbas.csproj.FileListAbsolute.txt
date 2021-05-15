@@ -1,0 +1,10 @@
+D:\KOLEGIJOS MEDZIAGA\DAUGIAGIJIS PROGRAMAVIMAS\Daugiagijio trecias praktinis darbas\Daugiagijio trecias praktinis darbas\bin\Debug\Daugiagijio trecias praktinis darbas.exe.config
+D:\KOLEGIJOS MEDZIAGA\DAUGIAGIJIS PROGRAMAVIMAS\Daugiagijio trecias praktinis darbas\Daugiagijio trecias praktinis darbas\bin\Debug\Daugiagijio trecias praktinis darbas.exe
+D:\KOLEGIJOS MEDZIAGA\DAUGIAGIJIS PROGRAMAVIMAS\Daugiagijio trecias praktinis darbas\Daugiagijio trecias praktinis darbas\bin\Debug\Daugiagijio trecias praktinis darbas.pdb
+D:\KOLEGIJOS MEDZIAGA\DAUGIAGIJIS PROGRAMAVIMAS\Daugiagijio trecias praktinis darbas\Daugiagijio trecias praktinis darbas\obj\Debug\Daugiagijio trecias praktinis darbas.csprojAssemblyReference.cache
+D:\KOLEGIJOS MEDZIAGA\DAUGIAGIJIS PROGRAMAVIMAS\Daugiagijio trecias praktinis darbas\Daugiagijio trecias praktinis darbas\obj\Debug\Daugiagijio_trecias_praktinis_darbas.Form1.resources
+D:\KOLEGIJOS MEDZIAGA\DAUGIAGIJIS PROGRAMAVIMAS\Daugiagijio trecias praktinis darbas\Daugiagijio trecias praktinis darbas\obj\Debug\Daugiagijio_trecias_praktinis_darbas.Properties.Resources.resources
+D:\KOLEGIJOS MEDZIAGA\DAUGIAGIJIS PROGRAMAVIMAS\Daugiagijio trecias praktinis darbas\Daugiagijio trecias praktinis darbas\obj\Debug\Daugiagijio trecias praktinis darbas.csproj.GenerateResource.cache
+D:\KOLEGIJOS MEDZIAGA\DAUGIAGIJIS PROGRAMAVIMAS\Daugiagijio trecias praktinis darbas\Daugiagijio trecias praktinis darbas\obj\Debug\Daugiagijio trecias praktinis darbas.csproj.CoreCompileInputs.cache
+D:\KOLEGIJOS MEDZIAGA\DAUGIAGIJIS PROGRAMAVIMAS\Daugiagijio trecias praktinis darbas\Daugiagijio trecias praktinis darbas\obj\Debug\Daugiagijio trecias praktinis darbas.exe
+D:\KOLEGIJOS MEDZIAGA\DAUGIAGIJIS PROGRAMAVIMAS\Daugiagijio trecias praktinis darbas\Daugiagijio trecias praktinis darbas\obj\Debug\Daugiagijio trecias praktinis darbas.pdb
